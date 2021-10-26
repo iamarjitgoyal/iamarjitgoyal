@@ -74,8 +74,7 @@
 </p>
 
 <p align="center">
-     ![forkit](https://user-images.githubusercontent.com/75082382/138861207-a26ea8c1-cc27-46f1-b389-cd2bee63f600.gif)
-
+    <a href="https://github.com/arjit1704"><img src="forkit.gif "/></a> 
 </p>
 <!--
 **arjit1704/arjit1704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
