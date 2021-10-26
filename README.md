@@ -4,7 +4,7 @@
 
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
-  <samp>I am a B. Tech student at KIET groups of Institutions pursuing bachelors degree in Computer Science and Informations Technology stream. I am an open source enthusiast and a web development addict.
+  <samp>I am a B. Tech student at KIET groups of Institutions pursuing bachelors degree in Computer Science and Informations Technology stream. And an open source enthusiast and a web development addict.
 </samp><br>
 </p>
 
