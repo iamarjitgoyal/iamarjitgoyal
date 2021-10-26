@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Arjit goyal</h1>
+![I'M ARJIT GOYAL](https://user-images.githubusercontent.com/75082382/138858009-732ab593-4528-427c-a96f-235b2276d45d.png)
+
 <h3 align="center">A passionate frontend developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjit1704&label=Profile%20views&color=0e75b6&style=flat" alt="arjit1704" /> </p>
