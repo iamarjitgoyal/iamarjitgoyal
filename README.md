@@ -31,7 +31,7 @@
 <h2 align="center">Trophies</h2>
 <div align="center">
     
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 <div align="center">
