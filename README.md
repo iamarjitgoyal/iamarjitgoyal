@@ -1,4 +1,4 @@
-![ArjitGoyal]()
+![ArjitGoyal](https://github.com/arjit1704/arjit1704/blob/main/Arjit_Goyal.png)
 # Welcome 👋, you are special&nbsp;![ProfileCounter](https://profile-counter.glitch.me/devAyushDubey/count.svg)th visitor 🤗
 <h2 align="center"> I am Arjit Goyal🤓, a passionate and creative developer from India.👩🏾‍💻 </h2> &nbsp;
 
