@@ -1,40 +1,34 @@
-<h1 align="center">Hi 👋, Arjit Goyal this side!</h1>
-<h3 align="center">A future Engineer, ambitious about programming and iOS development along with a bit knowledge of AR/VR domain.</h3>
+![AyushDubeyBanner](Photo)
+# Welcome 👋, you are special&nbsp;![ProfileCounter](https://profile-counter.glitch.me/devAyushDubey/count.svg)th visitor 🤗
+<h2 align="center"> I am Ayush Dubey🤓, a passionate and creative developer from India.👩🏾‍💻 </h2> &nbsp;
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arjit1704&label=Profile%20views&color=0e75b6&style=flat" alt="arjit1704" /> </p>
+> **I am a B.Tech undergraduate student in Computer Science and Information Technology with a passion of developing solutions and A craving learner and innovator with good cognitive problem solving skills. I try casting creative out-of-the box solutions to real world problems. Enjoy working in C++ and Technical Societies. Deeply value project based learning experiences and working in a team. A good hold on Data Structures and Algorithms. Creating value and impact to bring about a change.**
+## Tech Stacks and Tools:
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> </a> <a href="https://python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://ubuntu.com" target="_blank"> <img src="https://assets.ubuntu.com/v1/57a889f6-ubuntu-logo112.png" alt="ubuntu" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/> </a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjit1704" alt="arjit1704" /></a> </p>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=arjit1704&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjit1704&layout=compact)
 
-<p align="left"> <a href="https://twitter.com/arjitgoyal1" target="blank"><img src="https://img.shields.io/twitter/follow/arjitgoyal1?logo=twitter&style=for-the-badge" alt="arjitgoyal1" /></a> </p>
+## Let's connect 🤝
+<a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a> <p align="center">
+  <a href="http://linkedin.com/in/arjit-goyal-470a47204/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://user-images.githubusercontent.com/33064931/192891277-e2528754-fdca-473a-be7a-25149ae295c8.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/iamarjitgoyal/"><img width="32px" alt="Instagram" title="Instagram" src="https://user-images.githubusercontent.com/33064931/192891342-3c88a026-50f3-430d-b582-96a57b019e32.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.youtube.com/channel/UCJMM-nvalc3gZixC9CoArEA"><img width="32px" alt="Youtube" title="Youtube" src="https://user-images.githubusercontent.com/33064931/192891435-24b5573e-5715-484a-b398-1db38348d9ea.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/ArjitGoyal1"><img width="32px" alt="Twitter" title="Twitter" src="https://user-images.githubusercontent.com/33064931/192891530-8660cc3a-3721-4609-a99d-010d7dd5d6d7.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p> &nbsp;
 
-- 🌱 I’m currently learning **SwiftUI and API calling in iOS development.**
+<br> &nbsp;
 
-- 💬 Ask me about **HTML, CSS, C++, Javascript**
+&nbsp;
+## 🔥 Streak stats
 
-- 📫 How to reach me **arjitgoyal@gmail.com**
-
-- 📄 Know about my experiences [https://iamarjitgoyal.hackerresume.io/61a799cb-cb90-43b1-baba-9ff7356df5e4](https://iamarjitgoyal.hackerresume.io/61a799cb-cb90-43b1-baba-9ff7356df5e4)
-
-- ⚡ Fun fact **I think I can be good at Logical Thinking. LoL**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/arjitgoyal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arjitgoyal1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arjit goyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjit goyal" height="30" width="40" /></a>
-<a href="https://instagram.com/iamarjitgoyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamarjitgoyal" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/arjit1704" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arjit1704" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/arjitgoyal1704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arjitgoyal1704" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/arjitgoyal1704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arjitgoyal1704" height="30" width="40" /></a>
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/arjit1704/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="arjit1704's streak" src="https://streak-stats.demolab.com/?user=arjit1704&theme=monokai-metallian&hide_border=true"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/iamarjitgoyal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamarjitgoyal" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjit1704&show_icons=true&locale=en&layout=compact" alt="arjit1704" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjit1704&show_icons=true&locale=en" alt="arjit1704" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjit1704&" alt="arjit1704" /></p>
