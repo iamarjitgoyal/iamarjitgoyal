@@ -1,4 +1,4 @@
-![AyushDubeyBanner](Photo)
+![ArjitGoyal](Photo)
 # Welcome 👋, you are special&nbsp;![ProfileCounter](https://profile-counter.glitch.me/devAyushDubey/count.svg)th visitor 🤗
 <h2 align="center"> I am Ayush Dubey🤓, a passionate and creative developer from India.👩🏾‍💻 </h2> &nbsp;
 
