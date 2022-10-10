@@ -1,5 +1,5 @@
 ![ArjitGoyal](https://github.com/arjit1704/arjit1704/blob/main/Arjit_Goyal.png)
-# Welcome 👋, you are special&nbsp;![ProfileCounter](https://profile-counter.glitch.me/devAyushDubey/count.svg)th visitor 🤗
+# Welcome 👋, you are special&nbsp;![ProfileCounter](https://profile-counter.glitch.me/arjit1704/count.svg)th visitor 🤗
 <h2 align="center"> I am Arjit Goyal🤓, a passionate and creative developer from India.👩🏾‍💻 </h2> &nbsp;
 
 > **I am a B.Tech undergraduate student in Computer Science and Information Technology with a passion of developing solutions and a craving learner and innovator with good cognitive problem solving skills, also an iOS Enthusiast. I try casting creative out-of-the box solutions to real world problems and enjoy working in C++ and Technical Societies. Deeply value project based learning experiences and working in a team. A good hold on Data Structures and Algorithms. Creating value and impact to bring about a change.**
