@@ -20,6 +20,12 @@
 </p>
 
 
+<br> &nbsp;
+
+# 💻 LeetCode Stats :
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/iamarjitgoyal?ext=heatmap)
+
 
 ## Let's connect 🤝
 <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a> 
@@ -33,14 +39,6 @@
   <a href="https://twitter.com/ArjitGoyal1"><img width="32px" alt="Twitter" title="Twitter" src="https://user-images.githubusercontent.com/33064931/192891530-8660cc3a-3721-4609-a99d-010d7dd5d6d7.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-
-<br> &nbsp;
-
-
-
-# 💻 LeetCode Stats :
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/iamarjitgoyal?ext=heatmap)
 
 
 &nbsp;
