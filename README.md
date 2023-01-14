@@ -1,5 +1,8 @@
-<img src="https://media.tenor.com/mIAPebu8tLIAAAAM/please-standby-were-experiencing-technical-difficulties-state-champs.gif" alt="iamarjitgoyal" />
 
+<center>
+<img src="https://media.tenor.com/mIAPebu8tLIAAAAM/please-standby-were-experiencing-technical-difficulties-state-champs.gif" alt="iamarjitgoyal" width="300" height="300"/>
+</center>
+  
 # Welcome 👋, you are special&nbsp;![ProfileCounter](https://profile-counter.glitch.me/iamarjitgoyal/count.svg)th visitor 🤗
 <h2 align="center"> I am Arjit Goyal🤓, a passionate and creative developer from India.👩🏾‍💻 </h2> &nbsp;
 
