@@ -21,6 +21,7 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/iamarjitgoyal?ext=heatmap)
 </center>
 
+&nbsp;
 
 ## Let's connect 🤝
 <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a> <p align="center">
