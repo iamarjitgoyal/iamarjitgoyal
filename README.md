@@ -1,6 +1,6 @@
 
 <center>
-<img src="https://media.tenor.com/mIAPebu8tLIAAAAM/please-standby-were-experiencing-technical-difficulties-state-champs.gif" alt="iamarjitgoyal" width="300" height="300"/>
+<img src="https://media.tenor.com/nKPZSs1a6WMAAAAM/back-pocket-skadi.gif" alt="iamarjitgoyal"/>
 </center>
   
 # Welcome 👋, you are special&nbsp;![ProfileCounter](https://profile-counter.glitch.me/iamarjitgoyal/count.svg)th visitor 🤗
