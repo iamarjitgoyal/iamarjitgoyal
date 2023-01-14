@@ -24,7 +24,7 @@
 
 # 💻 LeetCode Stats :
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/iamarjitgoyal?ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/iamarjitgoyal?ext=heatmap)
 
 
 ## Let's connect 🤝
