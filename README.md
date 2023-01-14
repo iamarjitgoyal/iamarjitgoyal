@@ -11,9 +11,17 @@
 <a href="https://github.com/iamarjitgoyal">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iamarjitgoyal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamarjitgoyal&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iamarjitoyal&theme=tokyonight"/>	
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iamarjitgoyal&theme=tokyonight"/>	
 </a>
 </p>
+
+# 💻 LeetCode Stats :
+
+<center>  
+![](https://leetcard.jacoblin.cool/iamarjitgoyal?ext=contest)
+</center>
+
+<br> &nbsp;
 
 ## Let's connect 🤝
 <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a> <p align="center">
@@ -27,13 +35,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p> &nbsp;
 
-<br> &nbsp;
 
-# 💻 LeetCode Stats :
 
-<center>  
-![](https://leetcard.jacoblin.cool/iamarjitgoyal?ext=contest)
-</center>
 
 &nbsp;
 
