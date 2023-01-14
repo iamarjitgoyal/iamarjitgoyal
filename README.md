@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/J53.mp4" alt="iamarjitgoyal" />
+<img src="[https://i.gifer.com/J53.mp4](https://tenor.com/en-GB/view/please-standby-were-experiencing-technical-difficulties-state-champs-just-sound-song-experiencing-issues-technical-issues-gif-25469986)" alt="iamarjitgoyal" />
 
 # Welcome 👋, you are special&nbsp;![ProfileCounter](https://profile-counter.glitch.me/iamarjitgoyal/count.svg)th visitor 🤗
 <h2 align="center"> I am Arjit Goyal🤓, a passionate and creative developer from India.👩🏾‍💻 </h2> &nbsp;
