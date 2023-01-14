@@ -33,10 +33,7 @@
 
 # 💻 LeetCode Stats :
 
-<center>  
 ![Leetcode Stats](https://leetcard.jacoblin.cool/iamarjitgoyal?ext=heatmap)
-</center>
-
 
 
 &nbsp;
