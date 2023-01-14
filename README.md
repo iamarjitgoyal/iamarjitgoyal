@@ -1,6 +1,6 @@
 
 <center>
-<img src="https://media.tenor.com/nKPZSs1a6WMAAAAM/back-pocket-skadi.gif" alt="iamarjitgoyal"/>
+<img src="https://media.tenor.com/nKPZSs1a6WMAAAAM/back-pocket-skadi.gif" alt="iamarjitgoyal" width="100%" height="50%"/>
 </center>
   
 # Welcome 👋, you are special&nbsp;![ProfileCounter](https://profile-counter.glitch.me/iamarjitgoyal/count.svg)th visitor 🤗
