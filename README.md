@@ -29,7 +29,9 @@
 
 <br> &nbsp;
 
+# 💻 LeetCode Stats :
+<p align="center">
 ![Leetcode Stats](https://leetcard.jacoblin.cool/iamarjitgoyal?ext=contest)
-
+</p>
 &nbsp;
 
