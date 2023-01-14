@@ -31,9 +31,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/ArjitGoyal1"><img width="32px" alt="Twitter" title="Twitter" src="https://user-images.githubusercontent.com/33064931/192891530-8660cc3a-3721-4609-a99d-010d7dd5d6d7.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-</p> 
+</p> &nbsp;
 
-<br> &nbsp;
+<br> 
 
 
 
