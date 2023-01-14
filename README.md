@@ -32,12 +32,4 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=iamarjitgoyal&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamarjitgoyal&layout=compact) ![Leetcode Stats](https://leetcard.jacoblin.cool/iamarjitgoyal?ext=contest)
 
 &nbsp;
-## 🔥 Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/iamarjitgoyal/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="iamarjitgoyal's streak" src="https://streak-stats.demolab.com/?user=iamarjitgoyal&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
 
