@@ -22,7 +22,7 @@
 
 <br> &nbsp;
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=iamarjitgoyal&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamarjitgoyal&layout=compact) [![Leetcode Stats](https://leetcard.jacoblin.cool/iamarjitgoyal?theme=wtf&ext=heatmap)](https://leetcode.com/millenium103)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=iamarjitgoyal&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamarjitgoyal&layout=compact) ![Leetcode Stats](https://leetcard.jacoblin.cool/iamarjitgoyal?ext=contest)
 
 &nbsp;
 ## 🔥 Streak stats
