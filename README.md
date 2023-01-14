@@ -18,7 +18,7 @@
 # 💻 LeetCode Stats :
 
 <center>  
-![](https://leetcard.jacoblin.cool/iamarjitgoyal?ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/iamarjitgoyal?ext=heatmap)
 </center>
 
 <br> 
