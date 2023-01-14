@@ -30,10 +30,10 @@
 <br> &nbsp;
 
 # 💻 LeetCode Stats :
-<p align="center">
-  
+
+<center>  
 ![](https://leetcard.jacoblin.cool/iamarjitgoyal?ext=contest)
-  
-</p>
+</center>
+
 &nbsp;
 
