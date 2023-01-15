@@ -28,8 +28,7 @@
 
 
 ## Let's connect 🤝
-<a href="https://miro.medium.com/max/1128/1*Erk4NawQOHkf4wSN7JmB_A.webp"><img align="left" width="150" height="150" src="MyGit.png"></a> 
-<p align="center">
+<p>
   <a href="http://linkedin.com/in/arjit-goyal-470a47204/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://user-images.githubusercontent.com/33064931/192891277-e2528754-fdca-473a-be7a-25149ae295c8.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/iamarjitgoyal/"><img width="32px" alt="Instagram" title="Instagram" src="https://user-images.githubusercontent.com/33064931/192891342-3c88a026-50f3-430d-b582-96a57b019e32.png"/></a>
@@ -39,6 +38,7 @@
   <a href="https://twitter.com/ArjitGoyal1"><img width="32px" alt="Twitter" title="Twitter" src="https://user-images.githubusercontent.com/33064931/192891530-8660cc3a-3721-4609-a99d-010d7dd5d6d7.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+<a href="https://miro.medium.com/max/1128/1*Erk4NawQOHkf4wSN7JmB_A.webp"><img align="left" width="150" height="150" src="MyGit.png"></a>
 
 
 &nbsp;
