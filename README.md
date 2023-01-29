@@ -24,7 +24,7 @@
 
 # 💻 LeetCode Stats :
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/iamarjitgoyal?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/iamarjitgoyal?theme=dark&font=Montserrat%20Alternates&ext=heatmap)
 
 
 ## Let's connect 🤝
